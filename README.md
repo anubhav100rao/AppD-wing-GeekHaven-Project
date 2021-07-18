@@ -2,17 +2,9 @@
 
 # GeekHaven AppD wing Project
 
-
-
-## Authors
+## Author
 
 - [@anubhav100rao](https://www.github.com/anubhav100rao)
-
-
-  
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   # TOOLS
 # RECYLER VIEW, SQLITE db
@@ -20,16 +12,11 @@
 # Android Architecture components
 # View Model 
 
-  
-## License
+## Screenshots
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-  
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+![Screenshot (57)](https://user-images.githubusercontent.com/74093443/126068701-a41ba466-10d3-4d3d-af37-99347793a781.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/74093443/126068705-9ea4eb3f-3902-4c27-af83-a9e6bfab9f3e.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/74093443/126068707-8f99f475-6b22-4fa3-88ef-37a30219d796.png)
 
   
+#THANKYOU✨✨
